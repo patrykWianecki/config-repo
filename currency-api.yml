@@ -1,4 +1,4 @@
 server.port: "8082"
 logging.level.org.springframework: "info"
 logging.level.root: "info"
-dupa: "https://api.exchangeratesapi.io/latest"
+exchangeApiUrl: "https://api.exchangeratesapi.io/latest"
